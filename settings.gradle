@@ -1,0 +1,2 @@
+rootProject.name = "AnishWorkManager"
+include ':app'
